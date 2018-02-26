@@ -1,3 +1,3 @@
 # JS Sample sites for beginners
 
-Hosted at : http://jsggktech.firebaseapp.com
+Hosted at : [Link](http://jsggktech.firebaseapp.com)
